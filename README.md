@@ -1,22 +1,17 @@
 # Hi, I'm Jahanvi 👋
 
-🚀 LLM Systems | Prompt Engineering | AI Operations  
-
 I design and improve LLM systems using retrieval, structured prompting, and evaluation.
-Continuously iterating on systems by analyzing failure modes and improving reliability.
----
+Building reliable AI systems with focus on accuracy, consistency, and real-world usability.
 
-## 🧠 What I Do
+## 🧠 My Focus
 
-I design and improve AI systems by combining:
-- Retrieval-Augmented Generation (RAG)
-- Structured prompt engineering
-- Evaluation frameworks
+I build reliable AI systems across:
 
-My focus is on:
-- Reducing hallucinations  
-- Improving output consistency  
-- Building production-ready AI workflows  
+- Retrieval (RAG systems)
+- Controlled generation (content systems)
+- Insight extraction (text analysis)
+
+Goal: Improve accuracy, consistency, and usability of LLM outputs.
 
 ---
 
@@ -69,22 +64,17 @@ Generates consistent, high-quality product descriptions using controlled prompti
 
 ---
 
-## ⚠️ System Thinking
+## ⚠️ Failure-Aware Design
 
 I treat LLM applications as systems, not just prompts.
 
-I actively analyze:
-- Retrieval failures  
-- Hallucination risks  
-- Incomplete outputs  
-- Cross-lingual limitations  
+I actively work on:
+- Reducing hallucinations
+- Improving retrieval accuracy
+- Handling missing or incomplete context
+- Designing fallback responses
 
-And improve systems through:
-- Prompt iteration  
-- Retrieval tuning  
-- Evaluation datasets  
-
----
+Approach: Evaluate → Identify failure modes → Improve system reliability
 
 ## 📊 What I Care About
 
@@ -103,16 +93,16 @@ And improve systems through:
 
 ---
 
-## 🌍 Background
+## 🧠 About Me
 
-Experience in data quality, content analysis, and structured datasets at:
-- Amazon  
-- London Stock Exchange Group (LSEG)
+AI-focused professional with experience in data quality, multilingual content, and structured datasets.
 
-This foundation helps me build AI systems that are:
-- Accurate  
-- Structured  
-- Scalable  
+Now focused on building:
+- LLM systems
+- Prompt-driven workflows
+- Evaluation frameworks
+
+Background at Amazon and LSEG → strong foundation in data accuracy and quality.
 
 ---
 
