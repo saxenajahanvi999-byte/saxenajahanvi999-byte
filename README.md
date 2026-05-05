@@ -43,7 +43,7 @@ A system that answers questions from English & French documents with grounded ou
 
 ## 🛠️ Tech Stack
 
-- Python  
+- Python  (Basic)
 - OpenAI API  
 - FAISS / Vector Databases  
 - Prompt Engineering  
