@@ -2,8 +2,8 @@
 
 🚀 LLM Systems | Prompt Engineering | AI Operations  
 
-> I build reliable LLM systems using retrieval, structured prompting, and evaluation.
-
+I design and improve LLM systems using retrieval, structured prompting, and evaluation.
+Continuously iterating on systems by analyzing failure modes and improving reliability.
 ---
 
 ## 🧠 What I Do
