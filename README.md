@@ -52,17 +52,6 @@ Analyzes customer reviews to extract sentiment, themes, and actionable insights.
 
 ---
 
-### 🛍️ AI Product Description Generator
-Generates consistent, high-quality product descriptions using controlled prompting.
-
-**Key Work:**
-- Designed structured prompts for tone and format control  
-- Reduced hallucination with constrained inputs  
-- Evaluated outputs for consistency and relevance  
-
-👉 Focus: Controlled generation for real-world use
-
----
 
 ## ⚠️ Failure-Aware Design
 
@@ -86,10 +75,9 @@ Approach: Evaluate → Identify failure modes → Improve system reliability
 
 ## 🏗️ Tech Stack
 
-- Python  
-- LangChain  
+- Python   
 - OpenAI API  
-- Vector Databases (FAISS/Chroma)  
+- Vector Databases 
 
 ---
 
