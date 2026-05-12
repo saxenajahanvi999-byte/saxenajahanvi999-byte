@@ -75,9 +75,12 @@ Approach: Evaluate → Identify failure modes → Improve system reliability
 
 ## 🏗️ Tech Stack
 
-- Python   
-- OpenAI API  
-- Vector Databases 
+Python (Basic)
+OpenAI API
+JSON
+Prompt Engineering
+Retrieval-Augmented Generation (RAG)
+Vector Database
 
 ---
 
